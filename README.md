@@ -4,6 +4,11 @@
 
 Welcome to the world of **Tic Tac Toe**, where wit and strategy take center stage! In this Python-based gaming adventure, we'll harness the power of **NumPy**, a versatile library for numerical computations, to bring this classic game to life.
 
+**Python Documentation for Beginners:** To get started with Python, you can refer to the [Python documentation](https://docs.python.org/3/tutorial/index.html) for beginners. It's an excellent resource to learn the basics of Python programming.
+
+**NumPy Documentation:** Dive deeper into NumPy by exploring its [official documentation](https://numpy.org/doc/stable/). This will help you understand how to work with arrays, the fundamental data structure for our game, you can also refer to the well-structured tutorials on [Geeks for Geeks](https://www.geeksforgeeks.org/python-numpy/) .
+
+
 ## The Challenge 🎮
 
 Your mission, should you choose to accept it, is to implement a fully functional Tic Tac Toe game. You'll play the role of both the game designer and player, crafting the code that drives the game's logic and competing against an opponent - be it a friend or your own programmed AI.
