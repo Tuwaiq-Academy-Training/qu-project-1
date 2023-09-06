@@ -6,7 +6,7 @@ Welcome to the world of **Tic Tac Toe**, where wit and strategy take center stag
 
 **Python Documentation for Beginners:** To get started with Python, you can refer to the [Python documentation](https://docs.python.org/3/tutorial/index.html) for beginners. It's an excellent resource to learn the basics of Python programming.
 
-**NumPy Documentation:** Dive deeper into NumPy by exploring its [official documentation](https://numpy.org/doc/stable/). This will help you understand how to work with arrays, the fundamental data structure for our game, you can also refer to the well-structured tutorials on [Geeks for Geeks](https://www.geeksforgeeks.org/python-numpy/) .
+**NumPy Documentation:** Dive deeper into NumPy by exploring its [official documentation](https://numpy.org/doc/stable/). This will help you understand how to work with arrays, the fundamental data structure for our game, you can also refer to the well-structured tutorials on [Geeks for Geeks](https://www.geeksforgeeks.org/python-numpy/) for further insights and guidance.
 
 
 ## The Challenge 🎮
